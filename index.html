@@ -1,0 +1,177 @@
+<style>
+
+	:root {
+		--color1: rgb(0, 0, 0);
+		--color2: rgb(16, 16, 16);
+		--color3: rgb(32, 32, 32);
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+
+	html, body {
+		height: 100%;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	}
+
+	body {
+		background-color: var(--color1);
+		margin: 0;
+		padding: 0;
+	}
+
+	.panel {
+		display: flex;
+		height: 100%;
+	}
+
+	.stream {
+		display: flex;
+		flex: 1;
+	}
+
+		.stream video {
+			max-width: 100%;
+		}
+
+	.chat {
+		border-left: 3px solid var(--color3);
+		color: #FFFFFF;
+		font-size: 16px;
+		height: 100%;
+		overflow: auto;
+		padding: 16px 0;
+		scrollbar-color: var(--color1) var(--color2);
+		scrollbar-width: thin;
+		width: 256px;
+	}
+
+		.chat > * {
+			border-bottom: 1px solid transparent;
+			border-top: 1px solid transparent;
+			padding: 4px 8px;
+		}
+
+		.chat > *:nth-child(odd) {
+			background-color: var(--color2);
+			border-color: var(--color3);
+		}
+
+		.chat span,
+		.chat img {
+			vertical-align: middle;
+		}
+
+		.chat img {
+			height: 32px;
+		}
+
+</style>
+
+<div class="panel">
+	<div class="stream">
+		<video src="./stream/video.mp4" controls></video>
+	</div>
+	<div class="chat"></div>
+</div>
+
+<script>
+
+	const CHAT_SERVER = 'http://localhost:8787';
+
+	const TIME_OFFSET       = 0; // shift chat messages by X seconds
+	const BOOKMARK_INTERVAL = 5; // remember play position every X seconds
+
+	// ********************************************************************** //
+
+	const video = document.querySelector('video');
+	const chat  = document.querySelector('.chat');
+
+	const chatCache = new Set(); // prevent fetching chat messages more than once per second
+
+	// load chat messages every second
+	setInterval(() => {
+
+		const time = formatSeconds(
+			Math.floor(video.currentTime) + TIME_OFFSET
+		);
+
+		if (chatCache.has(time)) { return; }
+		chatCache.add(time);
+
+		const request = fetch(`${CHAT_SERVER}/?time=${time}`);
+		request.then(async(response) => {
+
+			const messages = await response.json();
+			appendChat(messages);
+		});
+		request.catch(() => {
+
+			video.pause();
+			alert(`Unable to retrieve chat messages from server: ${CHAT_SERVER}\n\n1. Make sure the chat server has been started.\n2. Disable your browser's adblock or add "localhost" to the whitelist.`);
+		});
+
+	}, 1000);
+
+	function formatSeconds(seconds) {
+
+		const hours      = Math.floor(seconds / 3600);
+		const minutes    = Math.floor((seconds % 3600) / 60);
+		const remSeconds = (seconds % 60);
+
+		const fHours   = ( (hours      < 10) ? ('0' + hours)      : hours      );
+		const fMinutes = ( (minutes    < 10) ? ('0' + minutes)    : minutes    );
+		const fSeconds = ( (remSeconds < 10) ? ('0' + remSeconds) : remSeconds );
+
+		return `${fHours}:${fMinutes}:${fSeconds}`;
+	};
+
+	function appendChat(messages) {
+
+		const lines = [];
+		for (const message of messages) {
+
+			const line = document.createElement('div');
+			line.innerHTML = message;
+
+			lines.push(line);
+		}
+
+		chat.append(...lines);
+
+		const MAX_MESSAGES = 100;
+		while (chat.children.length > MAX_MESSAGES) {
+			chat.removeChild(chat.firstElementChild);
+		}
+
+		chat.scrollTo(0, chat.scrollHeight);
+	};
+
+	// reset messages whenever play position jumps
+	video.addEventListener('seeked', () => {
+
+		chatCache.clear();
+		chat.innerHTML = '';
+	});
+
+	// ********************************************************************** //
+
+	const bookmarkKey = 'twitch_offline_viewer_bookmark';
+
+	const bookmark = parseInt(localStorage.getItem(bookmarkKey), 10);
+	if (Number.isSafeInteger(bookmark)) {
+
+		video.currentTime = bookmark;
+	}
+
+	setInterval(() => {
+
+		const newTime = (Math.floor(video.currentTime) - 5);
+		if (newTime <= 0) { return; }
+
+		localStorage.setItem(bookmarkKey, newTime)
+
+	}, (BOOKMARK_INTERVAL * 1000));
+
+</script>
