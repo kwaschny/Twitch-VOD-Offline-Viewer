@@ -157,21 +157,27 @@
 
 	// ********************************************************************** //
 
-	const bookmarkKey = 'twitch_offline_viewer_bookmark';
+	video.addEventListener('loadedmetadata', () => {
 
-	const bookmark = parseInt(localStorage.getItem(bookmarkKey), 10);
-	if (Number.isSafeInteger(bookmark)) {
+		const videoID = video.duration;
+		if (!Number.isFinite(videoID)) { return; }
 
-		video.currentTime = bookmark;
-	}
+		const bookmarkKey = `twitch_offline_viewer_bookmark_vid${videoID}`;
 
-	setInterval(() => {
+		const bookmark = parseInt(localStorage.getItem(bookmarkKey), 10);
+		if (Number.isSafeInteger(bookmark)) {
 
-		const newTime = (Math.floor(video.currentTime) - 5);
-		if (newTime <= 0) { return; }
+			video.currentTime = bookmark;
+		}
 
-		localStorage.setItem(bookmarkKey, newTime)
+		setInterval(() => {
 
-	}, (BOOKMARK_INTERVAL * 1000));
+			const newTime = (Math.floor(video.currentTime) - 5);
+			if (newTime <= 0) { return; }
+
+			localStorage.setItem(bookmarkKey, newTime)
+
+		}, (BOOKMARK_INTERVAL * 1000));
+	});
 
 </script>
