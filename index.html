@@ -78,10 +78,14 @@
 
 <script>
 
-	const CHAT_SERVER = 'http://localhost:8787';
+	const CHAT_ENABLED = true;
+	const CHAT_SERVER  = 'http://localhost:8787';
 
-	const TIME_OFFSET       = 0; // shift chat messages by X seconds
+	const CHAT_OFFSET       = 0; // shift chat messages by X seconds
 	const BOOKMARK_INTERVAL = 5; // remember play position every X seconds
+
+	const VIDEO_SEEK_FORWARD   = 10; // in seconds
+	const VIDEO_SEEK_BACKWARDS = 10; // in seconds
 
 	// ********************************************************************** //
 
@@ -91,28 +95,31 @@
 	const chatCache = new Set(); // prevent fetching chat messages more than once per second
 
 	// load chat messages every second
-	setInterval(() => {
+	if (CHAT_ENABLED) {
 
-		const time = formatSeconds(
-			Math.floor(video.currentTime) + TIME_OFFSET
-		);
+		setInterval(() => {
 
-		if (chatCache.has(time)) { return; }
-		chatCache.add(time);
+			const time = formatSeconds(
+				Math.floor(video.currentTime) + CHAT_OFFSET
+			);
 
-		const request = fetch(`${CHAT_SERVER}/?time=${time}`);
-		request.then(async(response) => {
+			if (chatCache.has(time)) { return; }
+			chatCache.add(time);
 
-			const messages = await response.json();
-			appendChat(messages);
-		});
-		request.catch(() => {
+			const request = fetch(`${CHAT_SERVER}/?time=${time}`);
+			request.then(async(response) => {
 
-			video.pause();
-			alert(`Unable to retrieve chat messages from server: ${CHAT_SERVER}\n\n1. Make sure the chat server has been started.\n2. Disable your browser's adblock or add "localhost" to the whitelist.`);
-		});
+				const messages = await response.json();
+				appendChat(messages);
+			});
+			request.catch(() => {
 
-	}, 1000);
+				video.pause();
+				alert(`Unable to retrieve chat messages from server: ${CHAT_SERVER}\n\n1. Make sure the chat server has been started.\n2. Disable your browser's adblock or add "localhost" to the whitelist.`);
+			});
+
+		}, 1000);
+	}
 
 	function formatSeconds(seconds) {
 
@@ -154,6 +161,52 @@
 		chatCache.clear();
 		chat.innerHTML = '';
 	});
+
+	// override key events for play/pause and navigation
+	window.addEventListener('keydown', (event) => {
+
+		switch (event.key) {
+
+			case 'ArrowLeft':
+			case 'a':
+
+				video.currentTime -= VIDEO_SEEK_BACKWARDS;
+				break;
+
+			case 'ArrowRight':
+			case 'd':
+
+				video.currentTime += VIDEO_SEEK_FORWARD;
+				break;
+
+			case ' ':
+			case 'MediaPlayPause':
+
+				if (video.paused) {
+					video.play();
+				}
+				else {
+					video.pause();
+				}
+				break;
+
+			case 'MediaPlay':
+
+				video.play();
+				break;
+
+			case 'MediaPause':
+			case 'MediaStop':
+
+				video.pause();
+				break;
+		}
+
+		return false;
+	});
+
+	// prevent regular seek event by not allowing focus on the video element
+	video.addEventListener('focus', () => video.blur());
 
 	// ********************************************************************** //
 
