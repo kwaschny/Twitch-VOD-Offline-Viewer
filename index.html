@@ -151,6 +151,9 @@
 
 		const MAX_MESSAGES = 100;
 		while (chat.children.length > MAX_MESSAGES) {
+
+			// always remove two messages at once to preserve odd-even ratio
+			chat.removeChild(chat.firstElementChild);
 			chat.removeChild(chat.firstElementChild);
 		}
 
