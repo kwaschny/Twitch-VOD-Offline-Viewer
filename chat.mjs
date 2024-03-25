@@ -167,6 +167,8 @@ if (CHANNEL_ID > 0) {
 
 console.log(`Prepared ${emotes.size} emotes.`, '\n');
 
+const zeroWidthEmotes = new Set([ "CandyCane", "cvHazmat", "cvMask", "IceCold", "ReinDeer", "SantaHat", "SoSnowy", "TopHat" ]);
+
 // ********************************************************************** //
 
 // start server
@@ -187,16 +189,34 @@ const server = createServer(async(request, response) => {
 	const messages = [];
 	for (const rawMessage of rawMessages) {
 
-		const words = rawMessage.split(' ');
-
 		const message = [];
-		for (const word of words) {
+		const words   = rawMessage.split(' ');
+
+		let lastWasEmote = false;
+		for (let i = 0; i < words.length; i++) {
+
+			const word = words[i];
 
 			if (emotes.has(word)) {
-				message.push(`<img src="${encode( emotes.get(word) )}" title="${encode(word)}">`);
+
+				let classList = '';
+				if (lastWasEmote && zeroWidthEmotes.has(word)) {
+
+					classList = 'zero-width';
+
+					// adjust previous emote (to force fixed width)
+					message[i - 1] = message[i - 1].replace('class=""', 'class="before-zero-width"');
+				}
+				else {
+					lastWasEmote = true;
+				}
+
+				message.push(`<img src="${encode( emotes.get(word) )}" title="${encode(word)}" class="${classList}">`);
 			}
 			else {
+
 				message.push(`<span>${encode(word)}</span>`);
+				lastWasEmote = false;
 			}
 		}
 
