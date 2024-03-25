@@ -1,9 +1,9 @@
 <style>
 
 	:root {
-		--color1: rgb(0, 0, 0);
-		--color2: rgb(16, 16, 16);
-		--color3: rgb(32, 32, 32);
+		--color1: rgb( 0,  0,  0);
+		--color2: rgb(24, 24, 24);
+		--color3: rgb(36, 36, 36);
 	}
 
 	* {
@@ -29,6 +29,7 @@
 	.stream {
 		display: flex;
 		flex: 1;
+		justify-content: flex-end;
 	}
 
 		.stream video {
@@ -36,7 +37,8 @@
 		}
 
 	.chat {
-		border-left: 3px solid var(--color3);
+		border-left: 1px solid var(--color3);
+		border-right: 1px solid var(--color3);
 		color: #FFFFFF;
 		font-size: 16px;
 		height: 100%;
