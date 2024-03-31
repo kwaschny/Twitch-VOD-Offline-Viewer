@@ -77,6 +77,39 @@ These emotes will be downloaded automatically whenever the chat server starts. M
 
 Global Twitch emotes are provided by default. However, exclusive streamer emotes must be provided manually due to requiring OAuth to access the [Twitch API](https://dev.twitch.tv/docs/irc/emotes/#getting-channel-emotes). Once authenticated, make the request and save the endpoint's response as `<CHANNEL_ID>.json` in `/emotes/`. Make sure you adjust the `CHANNEL_ID` variable at the top in the `chat.mjs` source file before running the server.
 
+<details>
+  <summary>How to work with the Twitch API</summary>
+
+1. Create an app [via Twitch developer console](https://dev.twitch.tv/console/apps). This will yield a "Client-ID" and a "Client-Secret".
+
+2. Request an access token using your `client_id` and `client_secret`:
+```
+curl -L 'https://id.twitch.tv/oauth2/token' \
+     -H 'Content-Type: application/x-www-form-urlencoded' \
+     -d 'grant_type=client_credentials' \
+     -d 'client_id={{client_id}}' \
+     -d 'client_secret={{client_secret}}'
+```
+3. Store the value of `access_token` from the response.
+
+4. Fetch the channel's ID:
+```
+curl -L 'https://api.twitch.tv/helix/users?login={{channel_name}}' \
+     -H 'Authorization: Bearer {{access_token}}' \
+     -H 'Client-Id: {{client_id}}'
+```
+5. Store the value of `data[0].id` (`channel_id`) from the response.
+
+6. Fetch the channel's emotes:
+```
+curl -L 'https://api.twitch.tv/helix/chat/emotes?broadcaster_id={{channel_id}}' \
+     -H 'Authorization: Bearer {{access_token}}' \
+     -H 'Client-Id: {{client_id}}'
+```
+7. Save the response to the file.
+
+</details>
+
 ## Chat usernames
 
 If you don't care about usernames in chat, change the `CHAT_USERNAMES` variable in the `index.html` source file to `false`.
