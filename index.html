@@ -50,8 +50,14 @@
 	}
 
 		.chat > * {
+			align-items: center;
 			border-bottom: 1px solid transparent;
 			border-top: 1px solid transparent;
+			display: flex;
+			flex-wrap: wrap;
+			gap: 4px;
+			min-height: 42px;
+			overflow-wrap: anywhere;
 			padding: 4px 8px;
 		}
 
@@ -60,14 +66,16 @@
 			border-color: var(--color3);
 		}
 
-		.chat span,
-		.chat img {
-			vertical-align: middle;
-		}
-
 		.chat img {
 			height: 32px;
 		}
+			.chat img.before-zero-width {
+				height: auto;
+				width: 32px;
+			}
+			.chat img.zero-width {
+				margin-left: -36px;
+			}
 
 </style>
 
