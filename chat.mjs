@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { readdirSync, readFileSync } from 'node:fs';
 import { createServer } from 'node:http';
 
 // ********************************************************************** //
@@ -59,18 +59,31 @@ for (const emote of response.data) {
 // Twitch Channel
 if (CHANNEL_ID > 0) {
 
-	let emotesFile = `./emotes/${CHANNEL_ID}.json`;
-	try {
-		response = JSON.parse( readFileSync(emotesFile).toString() );
-		for (const emote of response.data) {
+	let emotesFile = null;
+	const re = new RegExp(`(^|[^0-9])${CHANNEL_ID}\.json$`);
 
-			emotes.set(
-				emote.name,
-				emote.images['url_2x'].replace('/light/', '/dark/')
-			);
-		}
+	let files = readdirSync('./emotes/');
+	for (const file of files) {
+
+		if (!re.test(file)) { continue; }
+
+		emotesFile = `./emotes/${file}`;
+		break;
 	}
-	catch (err) { console.error(`Failed to fetch Twitch Channel emotes at: ${emotesFile}`); }
+
+	if (emotesFile !== null) {
+		try {
+			response = JSON.parse( readFileSync(emotesFile).toString() );
+			for (const emote of response.data) {
+
+				emotes.set(
+					emote.name,
+					emote.images['url_2x'].replace('/light/', '/dark/')
+				);
+			}
+		}
+		catch (err) { console.error(`Failed to fetch Twitch Channel emotes at: ${emotesFile}`); }
+	}
 }
 
 // BetterTTV Global
@@ -85,23 +98,31 @@ try {
 		);
 	}
 }
-catch (err) { console.error(`Failed to fetch BetterTTV Global emotes: ${err}`); }
+catch (err) {
+	console.error(`Failed to fetch BetterTTV Global emotes: ${err}`);
+	console.error(response);
+}
 
 // BetterTTV Channel
 if (CHANNEL_ID > 0) {
 
 	try {
 		response = await fetch(`https://api.betterttv.net/3/cached/users/twitch/${CHANNEL_ID}`);
-		response = await response.json();
-		for (const emote of response.channelEmotes) {
+		if (response.status !== 404) {
+			response = await response.json();
+			for (const emote of response.channelEmotes) {
 
-			emotes.set(
-				emote.code,
-				`https://cdn.betterttv.net/emote/${emote.id}/2x.${emote.imageType}`
-			);
+				emotes.set(
+					emote.code,
+					`https://cdn.betterttv.net/emote/${emote.id}/2x.${emote.imageType}`
+				);
+			}
 		}
 	}
-	catch (err) { console.error(`Failed to fetch BetterTTV Channel emotes: ${err}`); }
+	catch (err) {
+		console.error(`Failed to fetch BetterTTV Channel emotes: ${err}`);
+		console.error(response);
+	}
 }
 
 // FrankerFaceZ Global
@@ -116,23 +137,31 @@ try {
 		);
 	}
 }
-catch (err) { console.error(`Failed to fetch FrankerFaceZ Global emotes: ${err}`); }
+catch (err) {
+	console.error(`Failed to fetch FrankerFaceZ Global emotes: ${err}`);
+	console.error(response);
+}
 
 // FrankerFaceZ Channel
 if (CHANNEL_ID > 0) {
 
 	try {
 		response = await fetch(`https://api.betterttv.net/3/cached/frankerfacez/users/twitch/${CHANNEL_ID}`);
-		response = await response.json();
-		for (const emote of response) {
+		if (response.status !== 404) {
+			response = await response.json();
+			for (const emote of response) {
 
-			emotes.set(
-				emote.code,
-				emote.images['2x']
-			);
+				emotes.set(
+					emote.code,
+					emote.images['2x']
+				);
+			}
 		}
 	}
-	catch (err) { console.error(`Failed to fetch FrankerFaceZ Channel emotes: ${err}`); }
+	catch (err) {
+		console.error(`Failed to fetch FrankerFaceZ Channel emotes: ${err}`);
+		console.error(response);
+	}
 }
 
 // 7TV Global
@@ -147,23 +176,31 @@ try {
 		);
 	}
 }
-catch (err) { console.error(`Failed to fetch 7TV Global emotes: ${err}`); }
+catch (err) {
+	console.error(`Failed to fetch 7TV Global emotes: ${err}`);
+	console.error(response);
+}
 
 // 7TV Channel
 if (CHANNEL_ID > 0) {
 
 	try {
 		response = await fetch(`https://7tv.io/v3/users/twitch/${CHANNEL_ID}`);
-		response = await response.json();
-		for (const emote of response.emote_set.emotes) {
+		if (response.status !== 404) {
+			response = await response.json();
+			for (const emote of response.emote_set.emotes) {
 
-			emotes.set(
-				emote.name,
-				`https:${emote.data.host.url}/2x.webp`
-			);
+				emotes.set(
+					emote.name,
+					`https:${emote.data.host.url}/2x.webp`
+				);
+			}
 		}
 	}
-	catch (err) { console.error(`Failed to fetch 7TV Channel emotes: ${err}`); }
+	catch (err) {
+		console.error(`Failed to fetch 7TV Channel emotes: ${err}`);
+		console.error(response);
+	}
 }
 
 console.log(`Prepared ${emotes.size} emotes.`, '\n');
