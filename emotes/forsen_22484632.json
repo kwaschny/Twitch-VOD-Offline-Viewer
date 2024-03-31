@@ -1,0 +1,2178 @@
+{
+    "data": [
+        {
+            "id": "304412445",
+            "name": "forsenSmug",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304412445/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304412445/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304412445/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "696755",
+            "name": "forsenRedSonic",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/696755/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/696755/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/696755/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1271995",
+            "name": "forsenDab",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1271995/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1271995/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1271995/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_2f9a36844b054423833c817b5f8d4225",
+            "name": "forsenPls",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2f9a36844b054423833c817b5f8d4225/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2f9a36844b054423833c817b5f8d4225/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2f9a36844b054423833c817b5f8d4225/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "36535",
+            "name": "forsenSS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/36535/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/36535/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/36535/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300799759",
+            "name": "forsenBB",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300799759/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300799759/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300799759/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "302827735",
+            "name": "forsenE3",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302827735/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302827735/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302827735/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25045",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "173378",
+            "name": "forsenGASM",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/173378/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/173378/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/173378/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "116053",
+            "name": "forsen3",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/116053/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/116053/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/116053/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_2704b45015c64d87bcdd070d1ffae71e",
+            "name": "forsenPride",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2704b45015c64d87bcdd070d1ffae71e/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2704b45015c64d87bcdd070d1ffae71e/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2704b45015c64d87bcdd070d1ffae71e/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25044",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300603032",
+            "name": "forsenWhat",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300603032/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300603032/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300603032/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300235054",
+            "name": "forsenJoy",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300235054/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300235054/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300235054/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "118074",
+            "name": "forsenO",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/118074/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/118074/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/118074/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_ee52e9d2f1344320bad5e93dd2a6e570",
+            "name": "forsenParty",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ee52e9d2f1344320bad5e93dd2a6e570/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ee52e9d2f1344320bad5e93dd2a6e570/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ee52e9d2f1344320bad5e93dd2a6e570/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "60257",
+            "name": "forsenX",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/60257/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/60257/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/60257/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "555437",
+            "name": "forsenBee",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/555437/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/555437/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/555437/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "302771830",
+            "name": "forsenDank",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302771830/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302771830/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302771830/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25044",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1919054",
+            "name": "forsenHead",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1919054/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1919054/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1919054/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_0339d1b0444c421e800e10ccd013b583",
+            "name": "forsenAmbatu",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0339d1b0444c421e800e10ccd013b583/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0339d1b0444c421e800e10ccd013b583/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0339d1b0444c421e800e10ccd013b583/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25045",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305851381",
+            "name": "forsenSven",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305851381/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305851381/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305851381/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "684688",
+            "name": "forsenKek",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/684688/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/684688/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/684688/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "301428004",
+            "name": "forsenD",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/301428004/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/301428004/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/301428004/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_9863bc15883d4472a96008f47110b50c",
+            "name": "forsen25k",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9863bc15883d4472a96008f47110b50c/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9863bc15883d4472a96008f47110b50c/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9863bc15883d4472a96008f47110b50c/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "1088360683",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "67683",
+            "name": "forsenIQ",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/67683/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/67683/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/67683/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "89650",
+            "name": "forsenGun",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/89650/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/89650/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/89650/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "173372",
+            "name": "forsenY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/173372/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/173372/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/173372/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "302827737",
+            "name": "forsenE4",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302827737/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302827737/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302827737/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25045",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1565958",
+            "name": "forsenPosture1",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1565958/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1565958/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1565958/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "89678",
+            "name": "forsenPuke2",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/89678/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/89678/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/89678/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "302827734",
+            "name": "forsenE2",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302827734/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302827734/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302827734/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25045",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "31021",
+            "name": "forsenW",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/31021/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/31021/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/31021/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300915528",
+            "name": "forsenAngry",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300915528/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300915528/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300915528/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1572725",
+            "name": "forsenHobo",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1572725/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1572725/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1572725/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_10304fc8867a4d3586aadf2c409b153a",
+            "name": "forsenPossessed",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_10304fc8867a4d3586aadf2c409b153a/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_10304fc8867a4d3586aadf2c409b153a/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_10304fc8867a4d3586aadf2c409b153a/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_f8079785f4e946f19e0e9a7b8d355aa7",
+            "name": "forsenMaxLevel",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f8079785f4e946f19e0e9a7b8d355aa7/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f8079785f4e946f19e0e9a7b8d355aa7/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f8079785f4e946f19e0e9a7b8d355aa7/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "follower",
+            "emote_set_id": "5fc5e142-d394-481f-a561-5406c2ba3ef0",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "521050",
+            "name": "forsenE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/521050/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/521050/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/521050/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "89640",
+            "name": "forsenWhip",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/89640/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/89640/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/89640/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "116273",
+            "name": "forsenFeels",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/116273/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/116273/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/116273/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "304412430",
+            "name": "forsenBased",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304412430/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304412430/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304412430/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_0a4350b4bb124620b2b8ac2559804f7b",
+            "name": "forsenOhiomaxcape",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0a4350b4bb124620b2b8ac2559804f7b/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0a4350b4bb124620b2b8ac2559804f7b/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0a4350b4bb124620b2b8ac2559804f7b/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_7b9f8ef801d5494eb00c5ec31d79138d",
+            "name": "forsenGOODONE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b9f8ef801d5494eb00c5ec31d79138d/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b9f8ef801d5494eb00c5ec31d79138d/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7b9f8ef801d5494eb00c5ec31d79138d/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "393414773",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "306982829",
+            "name": "forsenOkay",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306982829/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306982829/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306982829/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "308029570",
+            "name": "forsenScoots",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/308029570/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/308029570/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/308029570/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25044",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_cd69428312f84cd4b6abea5adf1db1bb",
+            "name": "forsenT3N5U",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cd69428312f84cd4b6abea5adf1db1bb/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cd69428312f84cd4b6abea5adf1db1bb/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cd69428312f84cd4b6abea5adf1db1bb/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "420520300",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "90377",
+            "name": "forsenKnife",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/90377/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/90377/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/90377/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "684692",
+            "name": "forsenL",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/684692/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/684692/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/684692/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "116055",
+            "name": "forsen4",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/116055/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/116055/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/116055/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1479466",
+            "name": "forsenWeird",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1479466/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1479466/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1479466/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "122261",
+            "name": "forsenPuke3",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/122261/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/122261/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/122261/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "115996",
+            "name": "forsenH",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/115996/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/115996/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/115996/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_9847f8af53374e989a59694792e28cf2",
+            "name": "forsenSob",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9847f8af53374e989a59694792e28cf2/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9847f8af53374e989a59694792e28cf2/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9847f8af53374e989a59694792e28cf2/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "420520300",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_ecd775739807439381f3b91ac5893e49",
+            "name": "forsen50k",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd775739807439381f3b91ac5893e49/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd775739807439381f3b91ac5893e49/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecd775739807439381f3b91ac5893e49/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "915246790",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "184115",
+            "name": "forsenT",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/184115/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/184115/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/184115/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_93c0aa2b0d1f4ab0825a3c83ece9b200",
+            "name": "forsenMODS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_93c0aa2b0d1f4ab0825a3c83ece9b200/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_93c0aa2b0d1f4ab0825a3c83ece9b200/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_93c0aa2b0d1f4ab0825a3c83ece9b200/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "31097",
+            "name": "forsenBoys",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/31097/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/31097/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/31097/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_f7740b51495d40cdbe74af918250046d",
+            "name": "forsen10k",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f7740b51495d40cdbe74af918250046d/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f7740b51495d40cdbe74af918250046d/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f7740b51495d40cdbe74af918250046d/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "1050866541",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_aa390b7896b64171903840a29544629b",
+            "name": "forsenPet",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa390b7896b64171903840a29544629b/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa390b7896b64171903840a29544629b/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa390b7896b64171903840a29544629b/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "393414773",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "116052",
+            "name": "forsen2",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/116052/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/116052/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/116052/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "116051",
+            "name": "forsen1",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/116051/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/116051/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/116051/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_0cb16abc3c994004b7aa536ad350d5a1",
+            "name": "forsenKUKLE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0cb16abc3c994004b7aa536ad350d5a1/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0cb16abc3c994004b7aa536ad350d5a1/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0cb16abc3c994004b7aa536ad350d5a1/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "302827730",
+            "name": "forsenE1",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302827730/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302827730/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302827730/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25045",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_d1e2e7ac5cff41e2aaf12565c783e0bc",
+            "name": "forsenTF",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d1e2e7ac5cff41e2aaf12565c783e0bc/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d1e2e7ac5cff41e2aaf12565c783e0bc/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d1e2e7ac5cff41e2aaf12565c783e0bc/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "780629",
+            "name": "forsenWTF",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/780629/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/780629/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/780629/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305851390",
+            "name": "forsenOG",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305851390/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305851390/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305851390/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25044",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300546058",
+            "name": "forsenMald",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300546058/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300546058/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300546058/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1565952",
+            "name": "forsenPosture",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1565952/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1565952/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1565952/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300102188",
+            "name": "forsenHappy",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300102188/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300102188/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300102188/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "177866",
+            "name": "forsenS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/177866/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/177866/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/177866/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "301438145",
+            "name": "forsenC",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/301438145/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/301438145/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/301438145/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_b7482780923442c499ae7b4706040695",
+            "name": "forsenInsane",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b7482780923442c499ae7b4706040695/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b7482780923442c499ae7b4706040695/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b7482780923442c499ae7b4706040695/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "follower",
+            "emote_set_id": "5fc5e142-d394-481f-a561-5406c2ba3ef0",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_d53274249a594003ac3bd598a94df7c0",
+            "name": "forsenDespair",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d53274249a594003ac3bd598a94df7c0/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d53274249a594003ac3bd598a94df7c0/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d53274249a594003ac3bd598a94df7c0/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_fce2394ddb554233b3ed982fed8f8ad8",
+            "name": "forsenExplainingHow",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fce2394ddb554233b3ed982fed8f8ad8/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fce2394ddb554233b3ed982fed8f8ad8/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_fce2394ddb554233b3ed982fed8f8ad8/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_a0292167295e449c81f0faafec204679",
+            "name": "forsen1k",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a0292167295e449c81f0faafec204679/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a0292167295e449c81f0faafec204679/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a0292167295e449c81f0faafec204679/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "1981224526",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "301117915",
+            "name": "forsenGrill",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/301117915/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/301117915/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/301117915/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "175766",
+            "name": "forsenWut",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/175766/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/175766/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/175766/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_a3288bf7118d4e9083ac51a8654a3f4c",
+            "name": "forsenOverLevel",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3288bf7118d4e9083ac51a8654a3f4c/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3288bf7118d4e9083ac51a8654a3f4c/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a3288bf7118d4e9083ac51a8654a3f4c/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25044",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_9af1409cc37942b9a94fe9fa39872e90",
+            "name": "forsenCorn",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9af1409cc37942b9a94fe9fa39872e90/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9af1409cc37942b9a94fe9fa39872e90/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9af1409cc37942b9a94fe9fa39872e90/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "60391",
+            "name": "forsenPuke",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/60391/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/60391/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/60391/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_77c048775d0d429f80526cb7100af04e",
+            "name": "forsenFlirt",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_77c048775d0d429f80526cb7100af04e/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_77c048775d0d429f80526cb7100af04e/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_77c048775d0d429f80526cb7100af04e/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "31100",
+            "name": "forsenRP",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/31100/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/31100/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/31100/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "116245",
+            "name": "forsenLUL",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/116245/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/116245/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/116245/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "89641",
+            "name": "forsenSleeper",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/89641/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/89641/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/89641/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_39143e35ef084bbdb45e086bfed1fd2d",
+            "name": "forsen5k",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_39143e35ef084bbdb45e086bfed1fd2d/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_39143e35ef084bbdb45e086bfed1fd2d/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_39143e35ef084bbdb45e086bfed1fd2d/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "770158180",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1565929",
+            "name": "forsenLicence",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1565929/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1565929/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1565929/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "239535",
+            "name": "forsenThink",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/239535/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/239535/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/239535/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1171397",
+            "name": "forsenK",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1171397/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1171397/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1171397/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_bca52ccd88584a93ac7542535658ecee",
+            "name": "forsenLaughingAtYou",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bca52ccd88584a93ac7542535658ecee/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bca52ccd88584a93ac7542535658ecee/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_bca52ccd88584a93ac7542535658ecee/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "36391",
+            "name": "forsenDDK",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/36391/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/36391/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/36391/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1565960",
+            "name": "forsenPosture2",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1565960/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1565960/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1565960/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "4236",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_40efe18591194947a3910658fccb570f",
+            "name": "forsenNOIDONTTHINKSO",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_40efe18591194947a3910658fccb570f/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_40efe18591194947a3910658fccb570f/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_40efe18591194947a3910658fccb570f/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "385292559",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        }
+    ],
+    "template": "https://static-cdn.jtvnw.net/emoticons/v2/{{id}}/{{format}}/{{theme_mode}}/{{scale}}"
+}

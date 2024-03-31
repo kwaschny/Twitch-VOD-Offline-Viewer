@@ -1,0 +1,1497 @@
+{
+    "data": [
+        {
+            "id": "2075",
+            "name": "atpHorns",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/2075/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/2075/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/2075/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "610520",
+            "name": "atpSuspect",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/610520/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/610520/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/610520/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "797950",
+            "name": "atpBird",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/797950/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/797950/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/797950/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_47ccfcdf5b724fd49acdb190769b5d75",
+            "name": "atpMouth",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_47ccfcdf5b724fd49acdb190769b5d75/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_47ccfcdf5b724fd49acdb190769b5d75/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_47ccfcdf5b724fd49acdb190769b5d75/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "438110794",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "303124810",
+            "name": "atpMelonL",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/303124810/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/303124810/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/303124810/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25160",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1115737",
+            "name": "atpHolUp",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1115737/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1115737/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1115737/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "71976",
+            "name": "atpShh",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/71976/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/71976/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/71976/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1383807",
+            "name": "atpSuiken",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1383807/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1383807/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1383807/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "98699",
+            "name": "atpLaw",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/98699/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/98699/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/98699/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "67982",
+            "name": "atpGasm",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/67982/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/67982/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/67982/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "300228076",
+            "name": "atpJuntao",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/300228076/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/300228076/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/300228076/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "304080541",
+            "name": "atp7",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304080541/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304080541/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304080541/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "290363",
+            "name": "atpQuan",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/290363/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/290363/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/290363/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1071818",
+            "name": "atpBigot",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1071818/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1071818/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1071818/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_37cf3f7ea46643ed908a3f40aa1635c3",
+            "name": "atpDance",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_37cf3f7ea46643ed908a3f40aa1635c3/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_37cf3f7ea46643ed908a3f40aa1635c3/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_37cf3f7ea46643ed908a3f40aa1635c3/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "438110794",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "350586",
+            "name": "atpBelligerent",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/350586/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/350586/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/350586/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "304779512",
+            "name": "atpHighRoller",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304779512/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304779512/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304779512/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25161",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "336974",
+            "name": "atpSpiner",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/336974/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/336974/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/336974/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1053094",
+            "name": "atpMurray",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1053094/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1053094/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1053094/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "301052059",
+            "name": "atpTopSpeed",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/301052059/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/301052059/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/301052059/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1142575",
+            "name": "atpTryAiming",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1142575/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1142575/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1142575/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "74568",
+            "name": "atpCop",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/74568/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/74568/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/74568/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1141978",
+            "name": "atpClaire",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1141978/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1141978/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1141978/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "427835",
+            "name": "atpTopPlayer",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/427835/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/427835/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/427835/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25160",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_d0974d3da2174c59b824bb74d39f1f1e",
+            "name": "atpPrettyGood",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d0974d3da2174c59b824bb74d39f1f1e/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d0974d3da2174c59b824bb74d39f1f1e/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d0974d3da2174c59b824bb74d39f1f1e/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "88402",
+            "name": "atpRtsd4",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/88402/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/88402/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/88402/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "302649291",
+            "name": "atpNinja",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/302649291/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/302649291/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/302649291/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "90212",
+            "name": "atpWind",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/90212/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/90212/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/90212/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "128566",
+            "name": "atp1000",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/128566/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/128566/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/128566/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1140308",
+            "name": "atpCap",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1140308/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1140308/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1140308/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "62793",
+            "name": "atpFeelsBeardMan",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/62793/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/62793/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/62793/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "148672",
+            "name": "atpOld",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/148672/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/148672/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/148672/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_45b108cec39d4c65bdf87c50d2879293",
+            "name": "atp777",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45b108cec39d4c65bdf87c50d2879293/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45b108cec39d4c65bdf87c50d2879293/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_45b108cec39d4c65bdf87c50d2879293/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "438110794",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "53853",
+            "name": "atpDog",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/53853/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/53853/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/53853/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "303017306",
+            "name": "atpGrip",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/303017306/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/303017306/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/303017306/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25160",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "66926",
+            "name": "atpToiler",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/66926/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/66926/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/66926/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305804403",
+            "name": "atpLuck",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305804403/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305804403/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305804403/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25161",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1060319",
+            "name": "atpOro",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1060319/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1060319/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1060319/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "977492",
+            "name": "atpUgly",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/977492/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/977492/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/977492/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "84499",
+            "name": "atpRtsd",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/84499/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/84499/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/84499/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "66929",
+            "name": "atpIzza",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/66929/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/66929/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/66929/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "2072",
+            "name": "atpChar",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/2072/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/2072/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/2072/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "88399",
+            "name": "atpRtsd1",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/88399/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/88399/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/88399/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "191967",
+            "name": "atpHarada",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/191967/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/191967/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/191967/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "304038480",
+            "name": "atpCornteen",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/304038480/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/304038480/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/304038480/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "303124830",
+            "name": "atpMelonR",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/303124830/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/303124830/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/303124830/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25160",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "467809",
+            "name": "atpDisorderly",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/467809/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/467809/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/467809/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "88400",
+            "name": "atpRtsd2",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/88400/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/88400/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/88400/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "2076",
+            "name": "atpLook",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/2076/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/2076/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/2076/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "301083848",
+            "name": "atpSmoke",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/301083848/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/301083848/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/301083848/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "65265",
+            "name": "atpSolid",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/65265/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/65265/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/65265/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "88401",
+            "name": "atpRtsd3",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/88401/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/88401/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/88401/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1592202",
+            "name": "atpOkubo",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1592202/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1592202/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1592202/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "306181715",
+            "name": "atpRtsuspectd",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/306181715/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/306181715/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/306181715/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_95d0e03b04b74b4fb4c03ce35fc674ae",
+            "name": "atp0in20",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_95d0e03b04b74b4fb4c03ce35fc674ae/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_95d0e03b04b74b4fb4c03ce35fc674ae/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_95d0e03b04b74b4fb4c03ce35fc674ae/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "438110794",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "201139",
+            "name": "atpCarl",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/201139/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/201139/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/201139/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "163391",
+            "name": "atpCheif",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/163391/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/163391/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/163391/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "147446",
+            "name": "atpGood",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/147446/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/147446/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/147446/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "1107046",
+            "name": "atpMunchies",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/1107046/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/1107046/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/1107046/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "786430",
+            "name": "atpSeed",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/786430/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/786430/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/786430/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "182383",
+            "name": "atpRtsdG",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/182383/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/182383/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/182383/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "25161",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "163135",
+            "name": "atpCrab",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/163135/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/163135/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/163135/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "263",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        }
+    ],
+    "template": "https://static-cdn.jtvnw.net/emoticons/v2/{{id}}/{{format}}/{{theme_mode}}/{{scale}}"
+}

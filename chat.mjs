@@ -4,6 +4,9 @@ import { createServer } from 'node:http';
 // ********************************************************************** //
 
 const CHANNEL_ID = 0;
+// twitch.tv/avoidingthepuddle = 23528098
+// twitch.tv/forsen            = 22484632
+// twitch.tv/lirik             = 23161357
 
 // ********************************************************************** //
 

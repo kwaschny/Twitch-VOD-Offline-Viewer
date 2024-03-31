@@ -1,0 +1,1594 @@
+{
+    "data": [
+        {
+            "id": "emotesv2_da1ef6f2cfe74b7bb7868fde71c300cc",
+            "name": "lirikFireplace",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_da1ef6f2cfe74b7bb7868fde71c300cc/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_da1ef6f2cfe74b7bb7868fde71c300cc/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_da1ef6f2cfe74b7bb7868fde71c300cc/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "454477812",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288665",
+            "name": "lirikRE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288665/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288665/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288665/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288817",
+            "name": "lirikTEN",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288817/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288817/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288817/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288437",
+            "name": "lirikHMM",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288437/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288437/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288437/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288465",
+            "name": "lirikKKona",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288465/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288465/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288465/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_eec790d0c0e140b4867ecad344323c77",
+            "name": "lirikPOO",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eec790d0c0e140b4867ecad344323c77/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eec790d0c0e140b4867ecad344323c77/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eec790d0c0e140b4867ecad344323c77/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288716",
+            "name": "lirikOBESE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288716/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288716/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288716/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288424",
+            "name": "lirikA",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288424/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288424/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288424/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288694",
+            "name": "lirikWINK",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288694/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288694/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288694/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288722",
+            "name": "lirikPOG",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288722/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288722/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288722/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288508",
+            "name": "lirikLirikAPPA",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288508/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288508/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288508/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_cc6636a961c645f5ac9c779d294a9233",
+            "name": "lirikSCARED",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cc6636a961c645f5ac9c779d294a9233/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cc6636a961c645f5ac9c779d294a9233/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_cc6636a961c645f5ac9c779d294a9233/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_77423eb7f3cb41fd90ac04db624f5c8d",
+            "name": "lirik10KK",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_77423eb7f3cb41fd90ac04db624f5c8d/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_77423eb7f3cb41fd90ac04db624f5c8d/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_77423eb7f3cb41fd90ac04db624f5c8d/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "1625292057",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_33e4c19c71dd40e7b3e8220aa6bdb4ba",
+            "name": "lirikCozysip",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33e4c19c71dd40e7b3e8220aa6bdb4ba/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33e4c19c71dd40e7b3e8220aa6bdb4ba/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_33e4c19c71dd40e7b3e8220aa6bdb4ba/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "454477812",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288700",
+            "name": "lirikLOOT",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288700/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288700/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288700/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288548",
+            "name": "lirikEZ",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288548/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288548/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288548/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288686",
+            "name": "lirikTI",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288686/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288686/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288686/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288711",
+            "name": "lirikOSVN",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288711/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288711/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288711/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288792",
+            "name": "lirikSIP",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288792/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288792/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288792/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288572",
+            "name": "lirikGREAT",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288572/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288572/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288572/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_53ff77f7c67641528739780d90568494",
+            "name": "lirikEat",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53ff77f7c67641528739780d90568494/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53ff77f7c67641528739780d90568494/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_53ff77f7c67641528739780d90568494/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "454477812",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288515",
+            "name": "lirikCAPPY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288515/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288515/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288515/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_8b02771f0afd44dc9f4d34e83d8d8811",
+            "name": "lirikLate",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b02771f0afd44dc9f4d34e83d8d8811/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b02771f0afd44dc9f4d34e83d8d8811/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b02771f0afd44dc9f4d34e83d8d8811/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "454477812",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288563",
+            "name": "lirikFR",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288563/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288563/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288563/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "follower",
+            "emote_set_id": "16415a9e-1e1a-432a-8839-b5845532fc13",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288592",
+            "name": "lirikHUG",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288592/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288592/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288592/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288430",
+            "name": "lirikHAPPY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288430/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288430/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288430/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288569",
+            "name": "lirikGASM",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288569/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288569/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288569/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288789",
+            "name": "lirikSHUCKS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288789/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288789/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288789/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_5c009ac072684d9fa6a251db4fa5222e",
+            "name": "lirikWavy",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c009ac072684d9fa6a251db4fa5222e/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c009ac072684d9fa6a251db4fa5222e/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c009ac072684d9fa6a251db4fa5222e/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "454477812",
+            "format": [
+                "static",
+                "animated"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288475",
+            "name": "lirikLEWD",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288475/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288475/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288475/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288398",
+            "name": "lirikBLIND",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288398/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288398/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288398/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288392",
+            "name": "lirikAYAYA",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288392/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288392/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288392/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_9035170c8c7843a1bae4aa5f0b03190b",
+            "name": "lirikFRR",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9035170c8c7843a1bae4aa5f0b03190b/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9035170c8c7843a1bae4aa5f0b03190b/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_9035170c8c7843a1bae4aa5f0b03190b/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "1563560376",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_30e0c2e98a394d62a317ff19f137dcaa",
+            "name": "lirikBLANKET",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_30e0c2e98a394d62a317ff19f137dcaa/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_30e0c2e98a394d62a317ff19f137dcaa/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_30e0c2e98a394d62a317ff19f137dcaa/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288635",
+            "name": "lirikNO",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288635/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288635/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288635/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "301243426",
+            "name": "lirikEXCAL",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/301243426/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/301243426/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/301243426/static/light/3.0"
+            },
+            "tier": "3000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "29713",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288824",
+            "name": "lirikTHUMP",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288824/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288824/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288824/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288625",
+            "name": "lirikNICE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288625/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288625/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288625/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288833",
+            "name": "lirikWEEB",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288833/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288833/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288833/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_32039bb2275e40a49cd547cfc22f8f7b",
+            "name": "lirikHEY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32039bb2275e40a49cd547cfc22f8f7b/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32039bb2275e40a49cd547cfc22f8f7b/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_32039bb2275e40a49cd547cfc22f8f7b/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_8a9f964a655c454a87850ee86fed6c9d",
+            "name": "lirikCOZYY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8a9f964a655c454a87850ee86fed6c9d/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8a9f964a655c454a87850ee86fed6c9d/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8a9f964a655c454a87850ee86fed6c9d/static/light/3.0"
+            },
+            "tier": "",
+            "emote_type": "bitstier",
+            "emote_set_id": "1654880615",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288557",
+            "name": "lirikFEELS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288557/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288557/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288557/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_15119e8eb1df4e55aeada23f903afe8c",
+            "name": "lirikN",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_15119e8eb1df4e55aeada23f903afe8c/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_15119e8eb1df4e55aeada23f903afe8c/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_15119e8eb1df4e55aeada23f903afe8c/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_7f7427c561d24b749689e3e2a692eb11",
+            "name": "lirikH",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7f7427c561d24b749689e3e2a692eb11/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7f7427c561d24b749689e3e2a692eb11/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7f7427c561d24b749689e3e2a692eb11/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288836",
+            "name": "lirikZOOMER",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288836/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288836/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288836/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288784",
+            "name": "lirikPUKE",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288784/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288784/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288784/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288610",
+            "name": "lirikLUL",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288610/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288610/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288610/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_5ee283c3502c4012abc2eb92f46bceb0",
+            "name": "lirikNS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5ee283c3502c4012abc2eb92f46bceb0/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5ee283c3502c4012abc2eb92f46bceb0/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5ee283c3502c4012abc2eb92f46bceb0/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288683",
+            "name": "lirik10K",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288683/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288683/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288683/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288781",
+            "name": "lirikPRAY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288781/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288781/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288781/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288453",
+            "name": "lirikHULLO",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288453/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288453/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288453/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288408",
+            "name": "lirikCHAMP",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288408/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288408/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288408/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288530",
+            "name": "lirikDJ",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288530/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288530/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288530/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_740bb208b3924d4e91db561f3213b863",
+            "name": "lirikTOS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_740bb208b3924d4e91db561f3213b863/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_740bb208b3924d4e91db561f3213b863/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_740bb208b3924d4e91db561f3213b863/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288602",
+            "name": "lirikLIT",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288602/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288602/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288602/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288504",
+            "name": "lirikANGRY",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288504/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288504/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288504/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_64e4da50d2144b2c89d179a1313d6154",
+            "name": "lirikME",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_64e4da50d2144b2c89d179a1313d6154/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_64e4da50d2144b2c89d179a1313d6154/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_64e4da50d2144b2c89d179a1313d6154/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288819",
+            "name": "lirikTHINK",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288819/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288819/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288819/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_2b74ca58211a4067980589f943a752ba",
+            "name": "lirikD",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b74ca58211a4067980589f943a752ba/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b74ca58211a4067980589f943a752ba/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_2b74ca58211a4067980589f943a752ba/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288588",
+            "name": "lirikHS",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288588/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288588/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288588/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288402",
+            "name": "lirikBOOMER",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288402/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288402/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288402/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288410",
+            "name": "lirikCLAP",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288410/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288410/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288410/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "201144",
+            "name": "lirikDERP",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/201144/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/201144/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/201144/static/light/3.0"
+            },
+            "tier": "2000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "29712",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "emotesv2_e99b2c4754c44e7ca6a422d32a640965",
+            "name": "lirikPOOL",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e99b2c4754c44e7ca6a422d32a640965/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e99b2c4754c44e7ca6a422d32a640965/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e99b2c4754c44e7ca6a422d32a640965/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288813",
+            "name": "lirikSMUG",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288813/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288813/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288813/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        },
+        {
+            "id": "305288679",
+            "name": "lirikSMART",
+            "images": {
+                "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/305288679/static/light/1.0",
+                "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/305288679/static/light/2.0",
+                "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/305288679/static/light/3.0"
+            },
+            "tier": "1000",
+            "emote_type": "subscriptions",
+            "emote_set_id": "27",
+            "format": [
+                "static"
+            ],
+            "scale": [
+                "1.0",
+                "2.0",
+                "3.0"
+            ],
+            "theme_mode": [
+                "light",
+                "dark"
+            ]
+        }
+    ],
+    "template": "https://static-cdn.jtvnw.net/emoticons/v2/{{id}}/{{format}}/{{theme_mode}}/{{scale}}"
+}
