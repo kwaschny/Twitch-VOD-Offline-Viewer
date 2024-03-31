@@ -10,7 +10,7 @@ const CHANNEL_ID = 0;
 const SERVER_PORT = 8787;
 
 // parse text chat
-const REGEXP_LINE  = /\[([0-9]{1,2}:[0-9]{2}:[0-9]{2})\] [^:]+: (.+)/; // [hh:mm:ss] Username: Message
+const REGEXP_LINE  = /\[([0-9]{1,2}:[0-9]{2}:[0-9]{2})\] ([^:]+): (.+)/; // [hh:mm:ss] Username: Message
 const CHAT_PATH    = './stream/chat.txt';
 const messageLines = readFileSync(CHAT_PATH).toString().split('\n');
 
@@ -23,8 +23,9 @@ for (const messageLine of messageLines) {
 	const parts = messageLine.match(REGEXP_LINE);
 	if (parts === null) { continue; }
 
-	let time    = parts[1];
-	let message = parts[2];
+	let time     = parts[1];
+	let username = parts[2];
+	let message  = parts[3];
 
 	// h:mm:ss to hh:mm:ss
 	if (time.indexOf(':') === 1) {
@@ -34,7 +35,7 @@ for (const messageLine of messageLines) {
 	if (!chat.has(time)) {
 		chat.set(time, []);
 	}
-	chat.get(time).push(message);
+	chat.get(time).push({ usr: username, msg: message });
 }
 
 console.log(`Prepared ${messageLines.length} messages.`);
@@ -180,14 +181,16 @@ const server = createServer(async(request, response) => {
 	const time = query.get('time');
 
 	// fetch messages
-	let rawMessages = [];
+	let chatEntries = [];
 	if (time !== null) {
-		rawMessages = (chat.get(time) ?? []);
+		chatEntries = (chat.get(time) ?? []);
 	}
 
 	// replace emotes
 	const messages = [];
-	for (const rawMessage of rawMessages) {
+	for (const chatEntry of chatEntries) {
+
+		const rawMessage = chatEntry.msg;
 
 		const message = [];
 		const words   = rawMessage.split(' ');
@@ -220,7 +223,10 @@ const server = createServer(async(request, response) => {
 			}
 		}
 
-		messages.push( message.join(' ') );
+		messages.push({
+			usr: chatEntry.usr,
+			msg: message.join(' ')
+		});
 	}
 
 	response.setHeader('Access-Control-Allow-Origin', '*');

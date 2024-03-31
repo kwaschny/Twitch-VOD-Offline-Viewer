@@ -49,7 +49,22 @@
 		width: 256px;
 	}
 
-		.chat > * {
+		.chat > div {
+			position: relative;
+		}
+			.chat > div:nth-child(odd) {
+				background-color: var(--color2);
+				border-color: var(--color3);
+			}
+
+		.chat > div > .usr {
+			font-size: 80%;
+			left: 8px;
+			position: absolute;
+			top: -10px;
+		}
+
+		.chat > div > .msg {
 			align-items: center;
 			border-bottom: 1px solid transparent;
 			border-top: 1px solid transparent;
@@ -60,11 +75,10 @@
 			overflow-wrap: anywhere;
 			padding: 4px 8px;
 		}
-
-		.chat > *:nth-child(odd) {
-			background-color: var(--color2);
-			border-color: var(--color3);
-		}
+			.chat > div > .msg.pad {
+				padding-bottom: 20px;
+				padding-top: 8px;
+			}
 
 		.chat img {
 			height: 32px;
@@ -91,6 +105,7 @@
 	const CHAT_ENABLED = true;
 	const CHAT_SERVER  = 'http://localhost:8787';
 
+	const CHAT_USERNAMES    = true;
 	const CHAT_OFFSET       = 0; // shift chat messages by X seconds
 	const BOOKMARK_INTERVAL = 5; // remember play position every X seconds
 
@@ -98,6 +113,11 @@
 	const VIDEO_SEEK_BACKWARDS = 10; // in seconds
 
 	// ********************************************************************** //
+
+	const CHAT_COLORS = [];
+	for (let hue = 0; hue < 360; hue += 12) {
+		CHAT_COLORS.push(`hsl(${hue}deg 100% 70%)`);
+	}
 
 	const video = document.querySelector('video');
 	const chat  = document.querySelector('.chat');
@@ -150,7 +170,23 @@
 		for (const message of messages) {
 
 			const line = document.createElement('div');
-			line.innerHTML = message;
+
+			if (CHAT_USERNAMES) {
+
+				const user       = document.createElement('div');
+				user.textContent = message.usr;
+				user.style.color = CHAT_COLORS[(FNV1(message.usr) % CHAT_COLORS.length)];
+				user.classList.add('usr');
+				line.append(user);
+			}
+
+			const msg     = document.createElement('div');
+			msg.innerHTML = message.msg;
+			msg.classList.add('msg');
+			if (CHAT_USERNAMES) {
+				msg.classList.add('pad');
+			}
+			line.append(msg);
 
 			lines.push(line);
 		}
@@ -245,5 +281,7 @@
 
 		}, (BOOKMARK_INTERVAL * 1000));
 	});
+
+	function FNV1(n){for(var r=-2128831035,t=0;t<n.length;t++)r=n[t]^Math.imul(r,16777619);return r>>>0}
 
 </script>

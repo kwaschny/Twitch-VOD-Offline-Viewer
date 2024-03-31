@@ -2,6 +2,8 @@
 
 Most VODs on Twitch disappear sooner or later. Either because their availability expires or because they are explicitly deleted. So if you haven't finished watching the VOD in time, the content is gone. You can download the video, but what about the chat? "Twitch VOD Offline Viewer" solves this problem. Just download video + chat and play it just like a regular VOD at any time, even offline¹.
 
+![](./_screenshots/preview.png)
+
 ¹ Emotes in chat will only appear when images can be downloaded. So to see emotes, you still have to have an internet connection.
 
 ## Prerequisites
@@ -74,6 +76,14 @@ These emotes will be downloaded automatically whenever the chat server starts. M
 ### TwitchTV
 
 Global Twitch emotes are provided by default. However, exclusive streamer emotes must be provided manually due to requiring OAuth to access the [Twitch API](https://dev.twitch.tv/docs/irc/emotes/#getting-channel-emotes). Once authenticated, make the request and save the endpoint's response as `<CHANNEL_ID>.json` in `/emotes/`. Make sure you adjust the `CHANNEL_ID` variable at the top in the `chat.mjs` source file before running the server.
+
+## Chat usernames
+
+If you don't care about usernames in chat, change the `CHAT_USERNAMES` variable in the `index.html` source file to `false`.
+
+| `CHAT_USERNAMES = true`  | `CHAT_USERNAMES = false` |
+| ------------------------ | ------------------------ |
+| <img src="_screenshots/usernames_true.png" width="256" height="256"> | <img src="_screenshots/usernames_false.png" width="256" height="256"> |
 
 ## Chat delay
 
