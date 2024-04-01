@@ -208,7 +208,15 @@ if (CHANNEL_ID > 0) {
 
 console.log(`Prepared ${emotes.size} emotes.`, '\n');
 
-const zeroWidthEmotes = new Set([ "CandyCane", "cvHazmat", "cvMask", "IceCold", "ReinDeer", "SantaHat", "SoSnowy", "TopHat" ]);
+const zeroWidthEmotes = new Set([
+	"AYAYAHair",
+	"CandyCane", "cvHazmat", "cvMask",
+	"doorTime",
+	"IceCold",
+	"RainTime", "ReinDeer",
+	"SantaHat", "SoSnowy",
+	"TopHat"
+]);
 
 // ********************************************************************** //
 
