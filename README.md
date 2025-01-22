@@ -120,7 +120,7 @@ If you don't care about usernames in chat, change the `CHAT_USERNAMES` variable 
 
 ## Chat delay
 
-Brief disconnects during the live stream cause the chat log to be out of sync. To fix such an issue, you can adjust the `CHAT_OFFSET` variable in the `index.html` source file. Refresh the webpage to apply changes.
+Brief disconnects during the live stream cause the chat log to be out of sync. **Right-click on the video to show a dialog where you can enter the offset in seconds.** Chat messages will then appear either sooner (input < 0) or later (input > 0). You may change this at any time while watching.
 
 ## Troubleshooting
 

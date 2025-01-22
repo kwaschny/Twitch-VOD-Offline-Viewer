@@ -108,7 +108,6 @@
 	const CHAT_SERVER  = 'http://localhost:8787';
 
 	const CHAT_USERNAMES    = true;
-	const CHAT_OFFSET       = 0; // shift chat messages by X seconds
 	const BOOKMARK_INTERVAL = 5; // remember play position every X seconds
 
 	const VIDEO_SEEK_FORWARD   = 10; // in seconds
@@ -132,7 +131,7 @@
 		setInterval(() => {
 
 			const time = formatSeconds(
-				Math.floor(video.currentTime) + CHAT_OFFSET
+				Math.max(0, (Math.floor(video.currentTime) + chatOffset))
 			);
 
 			if (chatCache.has(time)) { return; }
@@ -206,12 +205,14 @@
 		chat.scrollTo(0, chat.scrollHeight);
 	};
 
-	// reset messages whenever play position jumps
-	video.addEventListener('seeked', () => {
+	function clearChat() {
 
 		chatCache.clear();
 		chat.innerHTML = '';
-	});
+	};
+
+	// reset messages whenever play position jumps
+	video.addEventListener('seeked', clearChat);
 
 	// override key events for play/pause and navigation
 	window.addEventListener('keydown', (event) => {
@@ -261,6 +262,8 @@
 
 	// ********************************************************************** //
 
+	let chatOffset = 0;
+
 	video.addEventListener('loadedmetadata', () => {
 
 		const videoID = video.duration;
@@ -272,6 +275,41 @@
 		if (Number.isSafeInteger(bookmark)) {
 
 			video.currentTime = bookmark;
+		}
+
+		if (CHAT_ENABLED) {
+
+			const chatOffsetKey = `twitch_offline_viewer_chatoffset_vid${videoID}`;
+
+			const offset = parseInt(localStorage.getItem(chatOffsetKey), 10);
+			if (Number.isSafeInteger(offset)) {
+
+				chatOffset = offset;
+			}
+
+			// prompt for chat offset
+			video.addEventListener('contextmenu', (event) => {
+
+				event.preventDefault();
+
+				let input = parseInt(
+					prompt('Enter the number of seconds to delay chat messages for:', chatOffset),
+					10
+				);
+				if (Number.isSafeInteger(input)) {
+
+					chatOffset = input;
+
+					if (chatOffset !== 0) {
+						localStorage.setItem(chatOffsetKey, chatOffset);
+					}
+					else {
+						localStorage.removeItem(chatOffsetKey);
+					}
+
+					clearChat();
+				}
+			});
 		}
 
 		setInterval(() => {
