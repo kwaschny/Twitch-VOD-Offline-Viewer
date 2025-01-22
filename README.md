@@ -1,10 +1,8 @@
 # Twitch VOD Offline Viewer
 
-Most VODs on Twitch disappear sooner or later. Either because their availability expires or because they are explicitly deleted. So if you haven't finished watching the VOD in time, the content is gone. You can download the video, but what about the chat? "Twitch VOD Offline Viewer" solves this problem. Just download video + chat and play it just like a regular VOD at any time, even offline¹.
+Most VODs on Twitch disappear sooner or later. Either because their availability expires or because they are explicitly deleted. So if you haven't finished watching the VOD in time, the content is gone. You can download the video, but what about the chat? "Twitch VOD Offline Viewer" solves this problem. Just download video + chat and play it just like a regular VOD at any time, even offline.
 
 ![](./_screenshots/preview.png)
-
-¹ Emotes in chat will only appear when images can be downloaded. So to see emotes, you still have to have an internet connection.
 
 ## Prerequisites
 
@@ -67,7 +65,7 @@ Use the `watch.bat` to resume (does step 4 and 5 for you).
 
 ## Optional: Channel emotes
 
-In order to see channel specific emotes, you will need to specify the channel ID. There are many ways to retrieve this information, for example using the [Twitch Channel ID Finder](https://streamscharts.com/tools/convert-username).
+In order to see channel specific emotes, you will need to specify the channel ID. There are many ways to retrieve this information, for example using [Twitch Channel ID Finder](https://streamscharts.com/tools/convert-username).
 
 ### BetterTTV, FrankerFaceZ & 7TV
 
@@ -110,7 +108,17 @@ curl -L 'https://api.twitch.tv/helix/chat/emotes?broadcaster_id={{channel_id}}' 
 
 </details>
 
-## Chat usernames
+## Optional: Offline mode
+
+You can watch the VOD offline from the get-go as video and chat are already on your disk. However, **emotes have to be downloaded once before going offline**. To download them, run **before starting the chat server** and wait for the task to finish:
+```
+node download_emotes.mjs
+```
+Make sure you adjust the `CHANNEL_ID` variable at the top in the `download_emotes.mjs` source file before running, see section "Channel emotes". Repeat this step whenever you want to keep emotes up to date.
+
+Finally, to fetch emotes from disk only, **set the `OFFLINE` variable in the `chat.mjs` source file to `true`**.
+
+## Setting: Chat usernames
 
 If you don't care about usernames in chat, change the `CHAT_USERNAMES` variable in the `index.html` source file to `false`.
 
@@ -118,7 +126,7 @@ If you don't care about usernames in chat, change the `CHAT_USERNAMES` variable 
 | ------------------------ | ------------------------ |
 | <img src="_screenshots/usernames_true.png" width="256" height="256"> | <img src="_screenshots/usernames_false.png" width="256" height="256"> |
 
-## Chat delay
+## Setting: Chat delay
 
 Brief disconnects during the live stream cause the chat log to be out of sync. **Right-click on the video to show a dialog where you can enter the offset in seconds.** Chat messages will then appear either sooner (input < 0) or later (input > 0). You may change this at any time while watching.
 

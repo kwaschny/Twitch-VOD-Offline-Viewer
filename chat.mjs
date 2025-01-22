@@ -1,5 +1,6 @@
-import { readdirSync, readFileSync } from 'node:fs';
+import { readFile } from 'node:fs/promises';
 import { createServer } from 'node:http';
+import { fetchEmotesOffline, fetchEmotesOnline } from './emotes.mjs';
 
 // ********************************************************************** //
 
@@ -8,14 +9,15 @@ const CHANNEL_ID = 0;
 // twitch.tv/forsen            = 22484632
 // twitch.tv/lirik             = 23161357
 
-// ********************************************************************** //
+// fetch emotes from local disk only
+const OFFLINE = false;
 
-const SERVER_PORT = 8787;
+// ********************************************************************** //
 
 // parse text chat
 const REGEXP_LINE  = /\[([0-9]{1,2}:[0-9]{2}:[0-9]{2})\] ([^:]+): (.+)/; // [hh:mm:ss] Username: Message
 const CHAT_PATH    = './stream/chat.txt';
-const messageLines = readFileSync(CHAT_PATH).toString().split('\n');
+const messageLines = (await readFile(CHAT_PATH)).toString().split('\n');
 
 console.log(`Starting Chat Server...`, '\n');
 
@@ -45,180 +47,33 @@ console.log(`Prepared ${messageLines.length} messages.`);
 
 // ********************************************************************** //
 
+let emotes;
+
 // prepare emotes
-const emotes = new Map();
-let response;
-
-// Twitch Global
-response = JSON.parse( readFileSync('./emotes/twitch.json').toString() );
-for (const emote of response.data) {
-
-	emotes.set(
-		emote.name,
-		emote.images['url_2x'].replace('/light/', '/dark/')
-	);
+if (OFFLINE) {
+	emotes = await fetchEmotesOffline(CHANNEL_ID);
+}
+else {
+	emotes = await fetchEmotesOnline(CHANNEL_ID);
 }
 
-// Twitch Channel
-if (CHANNEL_ID > 0) {
-
-	let emotesFile = null;
-	const re = new RegExp(`(^|[^0-9])${CHANNEL_ID}\.json$`);
-
-	let files = readdirSync('./emotes/');
-	for (const file of files) {
-
-		if (!re.test(file)) { continue; }
-
-		emotesFile = `./emotes/${file}`;
-		break;
-	}
-
-	if (emotesFile !== null) {
-		try {
-			response = JSON.parse( readFileSync(emotesFile).toString() );
-			for (const emote of response.data) {
-
-				emotes.set(
-					emote.name,
-					emote.images['url_2x'].replace('/light/', '/dark/')
-				);
-			}
-		}
-		catch (err) { console.error(`Failed to fetch Twitch Channel emotes at: ${emotesFile}`); }
-	}
-}
-
-// BetterTTV Global
-try {
-	response = await fetch('https://api.betterttv.net/3/cached/emotes/global');
-	response = await response.json();
-	for (const emote of response) {
-
-		emotes.set(
-			emote.code,
-			`https://cdn.betterttv.net/emote/${emote.id}/2x.${emote.imageType}`
-		);
-	}
-}
-catch (err) {
-	console.error(`Failed to fetch BetterTTV Global emotes: ${err}`);
-	console.error(response);
-}
-
-// BetterTTV Channel
-if (CHANNEL_ID > 0) {
-
-	try {
-		response = await fetch(`https://api.betterttv.net/3/cached/users/twitch/${CHANNEL_ID}`);
-		if (response.status !== 404) {
-			response = await response.json();
-			for (const emote of response.channelEmotes) {
-
-				emotes.set(
-					emote.code,
-					`https://cdn.betterttv.net/emote/${emote.id}/2x.${emote.imageType}`
-				);
-			}
-		}
-	}
-	catch (err) {
-		console.error(`Failed to fetch BetterTTV Channel emotes: ${err}`);
-		console.error(response);
-	}
-}
-
-// FrankerFaceZ Global
-try {
-	response = await fetch('https://api.betterttv.net/3/cached/frankerfacez/emotes/global');
-	response = await response.json();
-	for (const emote of response) {
-
-		emotes.set(
-			emote.code,
-			emote.images['2x']
-		);
-	}
-}
-catch (err) {
-	console.error(`Failed to fetch FrankerFaceZ Global emotes: ${err}`);
-	console.error(response);
-}
-
-// FrankerFaceZ Channel
-if (CHANNEL_ID > 0) {
-
-	try {
-		response = await fetch(`https://api.betterttv.net/3/cached/frankerfacez/users/twitch/${CHANNEL_ID}`);
-		if (response.status !== 404) {
-			response = await response.json();
-			for (const emote of response) {
-
-				emotes.set(
-					emote.code,
-					emote.images['2x']
-				);
-			}
-		}
-	}
-	catch (err) {
-		console.error(`Failed to fetch FrankerFaceZ Channel emotes: ${err}`);
-		console.error(response);
-	}
-}
-
-// 7TV Global
-try {
-	response = await fetch('https://7tv.io/v3/emote-sets/global');
-	response = await response.json();
-	for (const emote of response.emotes) {
-
-		emotes.set(
-			emote.name,
-			`https:${emote.data.host.url}/2x.webp`
-		);
-	}
-}
-catch (err) {
-	console.error(`Failed to fetch 7TV Global emotes: ${err}`);
-	console.error(response);
-}
-
-// 7TV Channel
-if (CHANNEL_ID > 0) {
-
-	try {
-		response = await fetch(`https://7tv.io/v3/users/twitch/${CHANNEL_ID}`);
-		if (response.status !== 404) {
-			response = await response.json();
-			for (const emote of response.emote_set.emotes) {
-
-				emotes.set(
-					emote.name,
-					`https:${emote.data.host.url}/2x.webp`
-				);
-			}
-		}
-	}
-	catch (err) {
-		console.error(`Failed to fetch 7TV Channel emotes: ${err}`);
-		console.error(response);
-	}
-}
-
-console.log(`Prepared ${emotes.size} emotes.`, '\n');
-
+// emotes that shall be placed on top of other emotes
 const zeroWidthEmotes = new Set([
 	"AYAYAHair",
 	"CandyCane", "cvHazmat", "cvMask",
 	"doorTime",
+	"hoodieU",
 	"IceCold",
 	"RainTime", "ReinDeer",
 	"SantaHat", "SoSnowy",
 	"TopHat"
 ]);
 
+console.log(`Prepared ${emotes.size} emotes for ${ OFFLINE ? 'offline' : 'online' } mode.`, '\n');
+
 // ********************************************************************** //
+
+const SERVER_PORT = 8787;
 
 // start server
 const server = createServer(async(request, response) => {
@@ -228,7 +83,7 @@ const server = createServer(async(request, response) => {
 
 	const time = query.get('time');
 
-	// fetch messages
+	// fetch messages for requested time
 	let chatEntries = [];
 	if (time !== null) {
 		chatEntries = (chat.get(time) ?? []);
